@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WearableHelloWorld</string>
+
+    <string name="hello_world">Mobile: Hello Kiwi.ai!</string>
+    <string name="action_settings">Settings</string>
+</resources>
